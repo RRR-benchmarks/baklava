@@ -1,3 +1,15 @@
+# **PROVENANCE NOTICE**
+
+---
+
+**Source Repository and Reference Commit:**  
+https://github.com/SGSkuliev21/baklava/commit/e9f0e8c7c90b9e8aaa4dfae618df2a91bacb32d9
+
+**Note:**  
+To comply with double-blind review requirements, this fork’s commit history was anonymized. The transformed and instrumented codes included in this repository were produced from this reference commit.
+
+---
+
 <h1 align="center"> TEAM BAKLAVA <h1>
 
 <div align="center" style="border-radius:50%" ><img src="/assets/logo.png" alt="logo with text baklava"> </div>
